@@ -3,11 +3,11 @@ export * from './education'
 export * from './career'
 
 // personal info
-export const name = 'Derek Hu'
-export const headline = 'Teacher at Shanghai Soong Ching Ling School.'
+export const name = 'Chaoxin Sun'
+export const headline = 'Math student at Beijing Normal University at Zhuhai.'
 export const introduction =
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020."
-export const email = 'tong.hu@scls-sh.org'
+  "Coucou Les Amis! My name is Chaoxin Sun. I'm from Heibei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020."
+export const email = '2225116613@qq.com'
 export const githubUsername = 'derekhut'
 
 // about page
